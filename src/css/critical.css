@@ -62,7 +62,7 @@
   #hero .cs-container:before {
     /* Left Line */
     content: '';
-    width: 1px;
+    width: 0px;
     height: 100%;
     background: -moz-linear-gradient(top, rgba(250, 251, 252, 0.5) 0%, rgba(250, 251, 252, 0) 100%);
     /* FF3.6-15 */
@@ -216,7 +216,7 @@
   #hero .cs-container:after {
     /* Right Line */
     content: '';
-    width: 1px;
+    width: 0px;
     height: 100%;
     background: -moz-linear-gradient(top, rgba(250, 251, 252, 0) 0%, rgba(250, 251, 252, 0.5) 100%);
     /* FF3.6-15 */
